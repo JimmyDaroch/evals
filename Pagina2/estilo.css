@@ -1,0 +1,37 @@
+/* Fondo para toda la página con colores fantásticos */
+body {
+  background-color: #1ec3cf; /* Un fondo oscuro y misterioso */
+  font-family: 'Garamond', serif; /* Fuente elegante para dar un toque místico */
+  color: #046b40; /* Color de texto claro para contraste */
+}
+
+/* Fondo para la sección principal con un toque etéreo */
+main {
+  background-color: #69b2be; /* Fondo oscuro con un tono gris azulado */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(30, 6, 58, 0.2); /* Sombra suave */
+}
+
+/* Fondo para el álbum con un toque mágico */
+.album {
+  background-color: #8b1abb; /* Morado profundo con un toque mágico */
+  padding: 40px;
+  border-radius: 15px;
+}
+
+/* Fondo de las tarjetas con un color suave y elegante */
+.card {
+  background-color: #621083; /* Un morado suave que recuerda a un reino de fantasía */
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px rgba(211, 6, 6, 0.3); /* Sombra para dar profundidad */
+}
+
+/* Fondo para el pie de página, un azul oscuro con un toque encantado */
+footer {
+  background-color: #16a085; /* Un verde azul muy profundo y místico */
+  color: #e784841a; /* Color blanco para el texto */
+  padding: 20px;
+  text-align: center;
+  border-top: 3px solid #0c89a89c; /* Línea clara para separar el pie de página */
+}
